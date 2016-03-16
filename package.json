@@ -1,0 +1,24 @@
+{
+  "name": "a-last",
+  "version": "1.0.0",
+  "description": "Returns the last n element of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/a-last.git"
+  },
+  "keywords": ["get", "last", "elements", "array"],
+  "author": "Vikram Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/a-last/issues"
+  },
+  "homepage": "https://github.com/vikramcse/a-last#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
